@@ -23,3 +23,37 @@
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+.shop-for__heading {
+  text-align: center;
+}
+
+.shop-for__desc {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.shop-for__collection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.shop-for__collection .shop-for__card {
+  width: 49%;
+}
+
+.shop-for__collection .shop-for__card.space-top {
+  margin-top: 40px;
+}
+
+.shop-for__collection .shop-for__card img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+}
