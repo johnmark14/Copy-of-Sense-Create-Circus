@@ -1,0 +1,35 @@
+.newsletter {
+    .newsletter__wrapper {
+         &.color-custom-1 {
+            background-color: $background;
+        }
+    }
+
+    .newsletter-form__field-wrapper {
+        display: flex;
+        .field {
+            border-radius: 0;
+            &::after, &::before, &:active, &:focus, &:focus-visible &:hover {
+                border-radius: 0;
+            }
+            input {
+                &::after, &::before, &:active, &:focus, &:focus-visible &:hover {
+                    border-radius: 0;
+                }
+                transition: none;
+            }
+        }
+        button {
+            margin-left: 10px;
+            background-color: black;
+            border: none;
+            
+            span {
+                padding: 0 10px;
+                color: white;
+                text-transform: uppercase;
+                cursor: pointer;
+            }
+        }
+    }
+}

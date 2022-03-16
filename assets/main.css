@@ -57,3 +57,43 @@
      object-fit: cover;
   width: 100%;
 }
+
+.newsletter .newsletter__wrapper.color-custom-1 {
+  background-color: #FBF6F1;
+}
+
+.newsletter .newsletter-form__field-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.newsletter .newsletter-form__field-wrapper .field {
+  border-radius: 0;
+}
+
+.newsletter .newsletter-form__field-wrapper .field::after, .newsletter .newsletter-form__field-wrapper .field::before, .newsletter .newsletter-form__field-wrapper .field:active, .newsletter .newsletter-form__field-wrapper .field:focus, .newsletter .newsletter-form__field-wrapper .field:focus-visible .newsletter .newsletter-form__field-wrapper .field:hover {
+  border-radius: 0;
+}
+
+.newsletter .newsletter-form__field-wrapper .field input {
+  -webkit-transition: none;
+  transition: none;
+}
+
+.newsletter .newsletter-form__field-wrapper .field input::after, .newsletter .newsletter-form__field-wrapper .field input::before, .newsletter .newsletter-form__field-wrapper .field input:active, .newsletter .newsletter-form__field-wrapper .field input:focus, .newsletter .newsletter-form__field-wrapper .field input:focus-visible .newsletter .newsletter-form__field-wrapper .field input:hover {
+  border-radius: 0;
+}
+
+.newsletter .newsletter-form__field-wrapper button {
+  margin-left: 10px;
+  background-color: black;
+  border: none;
+}
+
+.newsletter .newsletter-form__field-wrapper button span {
+  padding: 0 10px;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+}
