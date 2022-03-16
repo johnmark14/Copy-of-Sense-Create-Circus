@@ -1,7 +1,7 @@
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'announcement' -%}
-      <div class="announcement-bar color-{{ block.settings.color_scheme }} gradient" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
+      <div class="announcement-bar color-{{ block.settings.color_scheme }} {%if block.settings.ann-checkbox == true %} gradient {% endif %}" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
         {%- if block.settings.text != blank -%}
           {%- if block.settings.link != blank -%}
             <a href="{{ block.settings.link }}" class="announcement-bar__link link link--text focus-inset animate-arrow">
@@ -58,10 +58,20 @@
             {
               "value": "accent-2",
               "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__5.label"
+            },
+            {
+              "value": "custom-1",
+              "label": "Custom Background 1"
             }
           ],
           "default": "accent-1",
           "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "ann-checkbox",
+          "label": "Enable Gradient?",
+          "default": true
         },
         {
           "type": "url",
