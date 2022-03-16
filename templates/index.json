@@ -32,7 +32,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/s2_f4542d27-306e-4486-a645-3059a30f2932.jpg",
-        "height": "large",
+        "height": "small",
         "desktop_image_width": "large",
         "image-full": true,
         "layout": "text_first",
