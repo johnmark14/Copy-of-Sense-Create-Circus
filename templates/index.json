@@ -73,6 +73,42 @@
         "padding_bottom": 52
       }
     },
+    "1647439073e5668485": {
+      "type": "shop-for-collection",
+      "blocks": {
+        "1647439073c185a53a-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "1647439073c185a53a-1": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "1647439073c185a53a-2": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "1647439073c185a53a-3": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1647439073c185a53a-0",
+        "1647439073c185a53a-1",
+        "1647439073c185a53a-2",
+        "1647439073c185a53a-3"
+      ],
+      "settings": {
+        "section-title": "Section Title",
+        "section-desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel convallis ante.",
+        "hide-text": false
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -292,6 +328,7 @@
   "order": [
     "image-with-text",
     "rich-text",
+    "1647439073e5668485",
     "featured-collection",
     "collage",
     "multicolumn",
