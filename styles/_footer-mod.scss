@@ -21,6 +21,8 @@
     .footer-block--newsletter {
         .newsletter-form__field-wrapper {
             display: flex;
+            justify-content: center;
+            align-items: center;
             .field {
                 border-radius: 0;
                 &::after, &::before, &:active, &:focus, &:focus-visible &:hover {
@@ -30,19 +32,18 @@
                     &::after, &::before, &:active, &:focus, &:focus-visible &:hover {
                         border-radius: 0;
                     }
-                    display: block;
+                    display: inline-block;
                     transition: none;
                     box-sizing: border-box !important;
                     padding-right: unset;
                 }
             }
             button {
-                display: inline-block;
+                display: block !important;
                 background-color: black;
                 color: white;
-                padding: 20px;
-                padding-right: 20px;
-                position: unset;
+                padding: 15px 20px;
+                position: relative;
                 width: unset;
                 margin-left: 10px;
             }
