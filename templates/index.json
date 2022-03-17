@@ -377,6 +377,23 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "74ec9436-1e8f-4701-9468-2a71af3f6cbf": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Well where do I start... this place is truly amazing! & what beautiful things they sell \n Won a £20 gift card and able to use same day\n couldn't resist here! thank you so so much! <br> <span> - Daisy-Mae Griffiths <span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
@@ -384,7 +401,8 @@
         "1647522524cac8af89-1",
         "6a61551b-8616-4f79-bb82-1f49ba571610",
         "9900bf17-5321-47ee-8a62-26e960d08c7a",
-        "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56"
+        "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56",
+        "74ec9436-1e8f-4701-9468-2a71af3f6cbf"
       ],
       "settings": {
         "layout": "full_bleed",
