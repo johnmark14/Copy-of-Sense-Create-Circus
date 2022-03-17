@@ -98,6 +98,34 @@
   cursor: pointer;
 }
 
+.testimonials__text {
+  position: relative;
+}
+
+.testimonials__text .qt {
+  position: absolute;
+  font-size: 16rem;
+  line-height: 0;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  color: #BA3B62;
+}
+
+.testimonials__text .qt-open {
+  top: 75px;
+  left: 0;
+}
+
+.testimonials__text .qt-close {
+  bottom: 0;
+  right: 0;
+}
+
+.testimonials__text--description span {
+  color: lightgrey;
+}
+
 .footer.color-custom-1 {
   background-color: #FBF6F1;
 }

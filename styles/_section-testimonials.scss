@@ -1,0 +1,26 @@
+.testimonials__text {
+    position: relative;
+    .qt {
+        position: absolute;
+        font-size: 16rem;
+        line-height: 0;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        color: $accent;
+        &-open {
+            top: 75px;
+            left: 0;
+        }
+        &-close {
+            bottom: 0;
+            right: 0;
+        }
+    }
+
+    &--description {
+        span {
+            color: lightgrey;
+        }
+    }
+}
