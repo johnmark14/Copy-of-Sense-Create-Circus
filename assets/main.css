@@ -163,3 +163,7 @@
   width: unset;
   margin-left: 10px;
 }
+
+.footer .footer-block--newsletter .footer__list-social {
+  margin-top: 20px;
+}
