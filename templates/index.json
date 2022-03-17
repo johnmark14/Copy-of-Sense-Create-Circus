@@ -290,6 +290,112 @@
         "padding_bottom": 24
       }
     },
+    "1647522524b4a48123": {
+      "type": "testimonials",
+      "blocks": {
+        "1647522524cac8af89-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "⭐⭐⭐⭐⭐\n<br>\nJust wanted to say what a fabulous shop and customer service 5 star.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1647522524cac8af89-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "I made a purchase before Christmas and today. Very helpful, no pressure to make a purchase - but it would be difficult to resist. <br> <span>- Ann Wildcat <span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "6a61551b-8616-4f79-bb82-1f49ba571610": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Brought the kids to see Santa today and they loved it, really friendly staff and beautiful shop. Came away with happy children and a happy mummy after buying a beautiful crib and hat. <br><span> - Nichola Ratcliffe <span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "9900bf17-5321-47ee-8a62-26e960d08c7a": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Lovely shop in the heart of Newcastle. The quality of clothes and accessories is second to none and very well priced. 100% recommended for new parents especially.\nThank you Sarah for all of your help and service. <br> <span> - James Anthony Croxton <span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Went into Baby Luxe today to get the Moses basket I had seen through the window a couple of weeks ago. As I was on my own the lovely lady who served me insisted on carrying it to my car for me, although it wasn’t too heavy she didn’t want me to struggle especially in this heat. She shut shop for 5 minutes and carried everything.\nBeautiful stock and chuffed to bits with my Moses basket ready for our little girl In a few weeks. <br><span>- Terri<span><\/span>\n<br>\n<span> -Anne Hyde <span><\/span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1647522524cac8af89-0",
+        "1647522524cac8af89-1",
+        "6a61551b-8616-4f79-bb82-1f49ba571610",
+        "9900bf17-5321-47ee-8a62-26e960d08c7a",
+        "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "disabled": true,
@@ -332,7 +438,7 @@
           "type": "heading",
           "settings": {
             "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "16474439905b792918-1": {
@@ -369,6 +475,7 @@
     "collage",
     "multicolumn",
     "collection-list",
+    "1647522524b4a48123",
     "newsletter",
     "16474439910902eb37"
   ]
