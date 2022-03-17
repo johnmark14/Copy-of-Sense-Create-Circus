@@ -123,8 +123,8 @@
 }
 
 @media screen and (max-width: 749px) {
-  .testimonials__text .qt {
-    font-size: 14rem;
+  .testimonials__text--description {
+    font-size: 1.2rem;
   }
 }
 
