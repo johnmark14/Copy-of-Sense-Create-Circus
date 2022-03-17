@@ -100,6 +100,14 @@
       "footer-mod": {
         "type": "footer-mod",
         "blocks": {
+          "5c9e40d0-ba33-4911-a91a-dd68bac37ff0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/baby_bump_logo.png",
+              "image_width": 130,
+              "alignment": "center"
+            }
+          },
           "footer-mod-0": {
             "type": "link_list",
             "settings": {
@@ -116,6 +124,7 @@
           }
         },
         "block_order": [
+          "5c9e40d0-ba33-4911-a91a-dd68bac37ff0",
           "footer-mod-0",
           "footer-mod-1"
         ],
