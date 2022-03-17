@@ -227,6 +227,6 @@
   max-width: 150px !important;
 }
 
-.footer-block__details-links {
-  max-width: 200px !important;
+.footer-block__details-text {
+  margin-left: -130px;
 }
