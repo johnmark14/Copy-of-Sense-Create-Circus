@@ -313,10 +313,10 @@
         "1647522524cac8af89-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Button label",
+            "subheading": "I made a purchase before Christmas and today. Very helpful, no pressure to make a purchase - but it would be difficult to resist. <br> <span>- Ann Wildcat <span><\/span><\/span>",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
