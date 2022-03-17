@@ -37,7 +37,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo": "shopify:\/\/shop_images\/baby_bump_logo.png",
           "logo_width": 150,
           "logo_position": "top-center",
           "menu": "main-menu",
@@ -106,7 +106,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/baby_bump_logo.png",
-              "image_width": 130,
+              "image_width": 85,
               "alignment": "center"
             }
           },
