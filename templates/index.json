@@ -290,6 +290,58 @@
         "padding_bottom": 24
       }
     },
+    "1647522524b4a48123": {
+      "type": "testimonials",
+      "blocks": {
+        "1647522524cac8af89-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "⭐⭐⭐⭐⭐\n<br>\nJust wanted to say what a fabulous shop and customer service 5 star.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1647522524cac8af89-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1647522524cac8af89-0",
+        "1647522524cac8af89-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "disabled": true,
@@ -332,7 +384,7 @@
           "type": "heading",
           "settings": {
             "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "16474439905b792918-1": {
@@ -369,6 +421,7 @@
     "collage",
     "multicolumn",
     "collection-list",
+    "1647522524b4a48123",
     "newsletter",
     "16474439910902eb37"
   ]
