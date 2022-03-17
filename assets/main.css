@@ -201,3 +201,7 @@
 .footer .footer-block--newsletter .footer__list-social {
   margin-top: 20px;
 }
+
+.footer-block__details-img {
+  max-width: 250px !important;
+}
