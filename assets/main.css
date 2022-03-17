@@ -122,6 +122,12 @@
   right: 0;
 }
 
+@media screen and (max-width: 749px) {
+  .testimonials__text .qt {
+    font-size: 14rem;
+  }
+}
+
 .testimonials__text--description span {
   color: lightgrey;
 }

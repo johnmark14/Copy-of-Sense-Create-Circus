@@ -16,6 +16,10 @@
             bottom: 0;
             right: 0;
         }
+
+        @media screen and (max-width: 749px) {
+            font-size: 14rem;
+        }
     }
 
     &--description {
