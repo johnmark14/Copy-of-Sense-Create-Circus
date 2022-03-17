@@ -343,12 +343,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "9900bf17-5321-47ee-8a62-26e960d08c7a": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Lovely shop in the heart of Newcastle. The quality of clothes and accessories is second to none and very well priced. 100% recommended for new parents especially.\nThank you Sarah for all of your help and service. <br> <span> - James Anthony Croxton <span><\/span><\/span>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "1647522524cac8af89-0",
         "1647522524cac8af89-1",
-        "6a61551b-8616-4f79-bb82-1f49ba571610"
+        "6a61551b-8616-4f79-bb82-1f49ba571610",
+        "9900bf17-5321-47ee-8a62-26e960d08c7a"
       ],
       "settings": {
         "layout": "full_bleed",
