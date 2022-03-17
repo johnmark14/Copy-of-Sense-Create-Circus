@@ -97,3 +97,64 @@
   text-transform: uppercase;
   cursor: pointer;
 }
+
+.footer.color-custom-1 {
+  background-color: #FBF6F1;
+}
+
+.footer.color-custom-white {
+  background-color: #F7F2F2;
+}
+
+.footer__blocks-wrapper {
+  padding: 0 30px;
+}
+
+.footer__blocks-wrapper .footer-block__details-content {
+  max-width: 350px;
+}
+
+.footer__blocks-wrapper .footer-block--newsletter {
+  -webkit-box-align: unset;
+      -ms-flex-align: unset;
+          align-items: unset;
+  margin-top: 0;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper .field {
+  border-radius: 0;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper .field::after, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field::before, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field:active, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field:focus, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field:focus-visible .footer .footer-block--newsletter .newsletter-form__field-wrapper .field:hover {
+  border-radius: 0;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper .field input {
+  display: block;
+  -webkit-transition: none;
+  transition: none;
+  -webkit-box-sizing: border-box !important;
+          box-sizing: border-box !important;
+  padding-right: unset;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper .field input::after, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field input::before, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field input:active, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field input:focus, .footer .footer-block--newsletter .newsletter-form__field-wrapper .field input:focus-visible .footer .footer-block--newsletter .newsletter-form__field-wrapper .field input:hover {
+  border-radius: 0;
+}
+
+.footer .footer-block--newsletter .newsletter-form__field-wrapper button {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  padding-right: 20px;
+  position: unset;
+  width: unset;
+  margin-left: 10px;
+}
