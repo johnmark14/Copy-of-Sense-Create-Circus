@@ -1,7 +1,56 @@
 {
   "sections": {
+    "164793976517d3fdc8": {
+      "type": "image-banner",
+      "blocks": {
+        "16479397659d949181-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Baby Bump Luxe",
+            "heading_size": "h1"
+          }
+        },
+        "16479397659d949181-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16479397659d949181-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16479397659d949181-0",
+        "16479397659d949181-1",
+        "16479397659d949181-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/s2_f4542d27-306e-4486-a645-3059a30f2932.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -524,6 +573,7 @@
     }
   },
   "order": [
+    "164793976517d3fdc8",
     "image-with-text",
     "rich-text",
     "1647439073e5668485",
