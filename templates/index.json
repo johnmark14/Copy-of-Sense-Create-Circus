@@ -347,8 +347,9 @@
         "1647522524cac8af89-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/baby-clothes-gc95343bfa_1920.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "⭐⭐⭐⭐⭐\n<br>\nJust wanted to say what a fabulous shop and customer service 5 star.",
             "button_label": "",
             "link": "",
@@ -364,6 +365,7 @@
         "1647522524cac8af89-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/baby-g4d6191137_1920.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "I made a purchase before Christmas and today. Very helpful, no pressure to make a purchase - but it would be difficult to resist. <br> <span>- Ann Wildcat <span><\/span><\/span>",
@@ -380,6 +382,7 @@
         },
         "6a61551b-8616-4f79-bb82-1f49ba571610": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
@@ -397,6 +400,7 @@
         },
         "9900bf17-5321-47ee-8a62-26e960d08c7a": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
@@ -414,6 +418,7 @@
         },
         "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
@@ -431,6 +436,7 @@
         },
         "74ec9436-1e8f-4701-9468-2a71af3f6cbf": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
@@ -448,6 +454,7 @@
         },
         "b5c2ce34-d1f4-468b-9893-52c39c721bf2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
@@ -465,6 +472,7 @@
         },
         "ba030426-3838-4267-9e20-d0f5a3f7b0af": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
