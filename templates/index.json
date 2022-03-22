@@ -344,13 +344,13 @@
     "1647522524b4a48123": {
       "type": "testimonials",
       "blocks": {
-        "1647522524cac8af89-0": {
+        "1647522524cac8af89-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/baby-clothes-gc95343bfa_1920.jpg",
+            "image": "shopify:\/\/shop_images\/baby-g4d6191137_1920.jpg",
             "heading": "",
-            "heading_size": "h2",
-            "subheading": "⭐⭐⭐⭐⭐\n<br>\nJust wanted to say what a fabulous shop and customer service 5 star.",
+            "heading_size": "h0",
+            "subheading": "I made a purchase before Christmas and today. Very helpful, no pressure to make a purchase - but it would be difficult to resist. <br> <span>- Ann Wildcat <span><\/span><\/span>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -362,13 +362,13 @@
             "text_alignment_mobile": "center"
           }
         },
-        "1647522524cac8af89-1": {
+        "1647522524cac8af89-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/baby-g4d6191137_1920.jpg",
+            "image": "shopify:\/\/shop_images\/baby-clothes-gc95343bfa_1920.jpg",
             "heading": "",
-            "heading_size": "h1",
-            "subheading": "I made a purchase before Christmas and today. Very helpful, no pressure to make a purchase - but it would be difficult to resist. <br> <span>- Ann Wildcat <span><\/span><\/span>",
+            "heading_size": "h2",
+            "subheading": "⭐⭐⭐⭐⭐\n<br>\nJust wanted to say what a fabulous shop and customer service 5 star.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -490,8 +490,8 @@
         }
       },
       "block_order": [
-        "1647522524cac8af89-0",
         "1647522524cac8af89-1",
+        "1647522524cac8af89-0",
         "6a61551b-8616-4f79-bb82-1f49ba571610",
         "9900bf17-5321-47ee-8a62-26e960d08c7a",
         "18be7df0-8cbb-48c4-9e3e-f3daa6e20a56",
