@@ -128,21 +128,25 @@
         "1647439073c185a53a-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/boy.jpg"
           }
         },
         "1647439073c185a53a-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/girl.jpg"
           }
         },
         "1647439073c185a53a-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/unisex.png"
           }
         },
         "1647439073c185a53a-3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hat.jpg"
           }
         }
       },
@@ -155,7 +159,8 @@
       "settings": {
         "section-title": "Shop For",
         "section-desc": "",
-        "hide-text": false
+        "hide-text": false,
+        "left-image": "shopify:\/\/shop_images\/boy.jpg"
       }
     },
     "featured-collection": {
