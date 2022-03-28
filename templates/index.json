@@ -48,6 +48,51 @@
         "show_text_below": true
       }
     },
+    "16484642611acc9e16": {
+      "type": "image-with-text",
+      "blocks": {
+        "164846426124b40370-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome",
+            "heading_size": "h1"
+          }
+        },
+        "164846426124b40370-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I founded my business as there is nothing better than shopping for baby items! I became fed up of ordering items online that turned up sub-standard quality.... Our babies deserve the absolute best and that's why every single item of our clothing, equipment & all of our accessories have been personally chosen and checked by me! (No joke....it takes ages!)<\/p><p>I have a very simple, clear vision<\/p><p>*To offer luxury clothing that isnt on every High Street<\/p><p>*To provide a wide range of good quality nursery items<\/p><p>And all at an affordable price.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164846426124b40370-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164846426124b40370-0",
+        "164846426124b40370-1",
+        "164846426124b40370-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hat.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image-full": false,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "disabled": true,
@@ -96,6 +141,7 @@
     },
     "rich-text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "rich-text-0": {
           "type": "heading",
@@ -635,6 +681,7 @@
   },
   "order": [
     "164793976517d3fdc8",
+    "16484642611acc9e16",
     "image-with-text",
     "rich-text",
     "164820242521f0fb5c",
