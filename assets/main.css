@@ -122,6 +122,11 @@
   right: 0;
 }
 
+.image-with-text__media img {
+  border-top-right-radius: var(--text-boxes-radius);
+  border-bottom-right-radius: var(--text-boxes-radius);
+}
+
 @media screen and (max-width: 749px) {
   .testimonials__text--description {
     font-size: 1.2rem;
