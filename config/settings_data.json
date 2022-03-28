@@ -1,5 +1,6 @@
 {
   "current": {
+    "colors_background_2": "#EDFFA7",
     "social_facebook_link": "https:\/\/www.facebook.com\/Babybumpluxe",
     "social_instagram_link": "instagram.com",
     "sections": {
@@ -231,7 +232,7 @@
         ],
         "settings": {
           "color_scheme": "custom-1",
-          "ann-checkbox": true,
+          "ann-checkbox": false,
           "full_width": true,
           "padding_top": 40,
           "padding_bottom": 52
