@@ -1,6 +1,7 @@
 {
   "current": {
     "colors_background_2": "#EDFFA7",
+    "gradient_background_2": "linear-gradient(0deg, rgba(251, 246, 241, 1), rgba(255, 224, 218, 1) 25%, rgba(251, 246, 241, 1) 100%)",
     "social_facebook_link": "https:\/\/www.facebook.com\/Babybumpluxe",
     "social_instagram_link": "instagram.com",
     "sections": {
@@ -193,7 +194,7 @@
           "image_ratio": "adapt",
           "columns_desktop": 3,
           "column_alignment": "center",
-          "background_style": "primary",
+          "background_style": "none",
           "button_label": "",
           "button_link": "",
           "color_scheme": "background-1",
