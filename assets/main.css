@@ -124,8 +124,8 @@
 
 .image-with-text .image-with-text__media,
 .image-with-text .image-with-text__media img {
-  border-top-left-radius: var(--text-boxes-radius);
-  border-bottom-left-radius: var(--text-boxes-radius);
+  border-top-left-radius: var(--text-boxes-radius) !important;
+  border-bottom-left-radius: var(--text-boxes-radius) !important;
 }
 
 @media screen and (max-width: 749px) {
