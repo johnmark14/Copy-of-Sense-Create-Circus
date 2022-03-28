@@ -122,9 +122,9 @@
   right: 0;
 }
 
-.image-with-text__media img {
-  border-top-right-radius: var(--text-boxes-radius);
-  border-bottom-right-radius: var(--text-boxes-radius);
+.image-with-text .image-with-text__media img {
+  border-top-left-radius: var(--text-boxes-radius);
+  border-bottom-left-radius: var(--text-boxes-radius);
 }
 
 @media screen and (max-width: 749px) {
