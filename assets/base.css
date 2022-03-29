@@ -2862,3 +2862,8 @@ details-disclosure > details {
     }
   }
 }
+
+  
+.newsletter .newsletter-form__field-wrapper .field input{
+  background-color: transparent;
+}
