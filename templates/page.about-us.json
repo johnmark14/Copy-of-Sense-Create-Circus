@@ -27,6 +27,7 @@
         },
         "16482036271e98bc88-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -72,6 +73,7 @@
         },
         "1648203635ddc6e23b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
