@@ -138,7 +138,7 @@
           "footer-fullWidth": true,
           "footer-copyright": true,
           "newsletter_enable": true,
-          "newsletter_heading": "",
+          "newsletter_heading": "Newsletter",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": true,
