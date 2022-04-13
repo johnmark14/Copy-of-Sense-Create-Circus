@@ -21,7 +21,7 @@
         "16482036271e98bc88-1": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/>Hello!<br\/><br\/>Welcome to Baby Bump Luxe!<br\/><br\/>I am Sarah, a pretty average mum of four.<\/p>",
+            "text": "<p>Hello!<br\/>Welcome to Baby Bump Luxe!<br\/>I am Sarah, a pretty average mum of four.<\/p><p>I founded my business as there is nothing better than shopping for baby items! I became fed up of ordering items online that turned up sub-standard quality.... Our babies deserve the absolute best and thats why every single item of our clothing, equipment & all of our accessories have been personally chosen and checked by me! (No joke....it takes ages!)<\/p>",
             "text_style": "body"
           }
         },
@@ -40,8 +40,8 @@
         "16482036271e98bc88-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GettyImages-1313979466-1620x1080.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/ballerina_lyla_b0649d16-6c25-46cd-960f-f84821f41db5.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "image-full": false,
         "layout": "image_first",
@@ -56,6 +56,7 @@
     },
     "1648203635ccd23dd3": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1648203635ddc6e23b-0": {
           "type": "heading",
@@ -113,7 +114,7 @@
         "164977203968ff54ce-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I have a very simple, clear vision<br\/>*To offer luxury clothing that isnt on every High Street<br\/>*To provide a wide range of good quality nursery items<br\/>And all at an affordable price.<br\/><br\/>So please have a look around and browse all we have to offer.   <\/p>",
+            "text": "<p>I have a very simple, clear vision<br\/>*To offer luxury clothing that isnt on every High Street<br\/>*To provide a wide range of good quality nursery items.<\/p><p><br\/>And all at an affordable price.<br\/><br\/>So please have a look around and browse all we have to offer.   <\/p>",
             "text_style": "body"
           }
         },
