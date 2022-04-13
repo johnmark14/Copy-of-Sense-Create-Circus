@@ -22,7 +22,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Hello!<br\/>Welcome to Baby Bump Luxe!<br\/>I am Sarah, a pretty average mum of four.<\/p><p>I founded my business as there is nothing better than shopping for baby items! I became fed up of ordering items online that turned up sub-standard quality.... Our babies deserve the absolute best and thats why every single item of our clothing, equipment & all of our accessories have been personally chosen and checked by me! (No joke....it takes ages!)<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "16482036271e98bc88-2": {
@@ -114,8 +114,8 @@
         "164977203968ff54ce-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I have a very simple, clear vision<br\/>*To offer luxury clothing that isnt on every High Street<br\/>*To provide a wide range of good quality nursery items.<\/p><p><br\/>And all at an affordable price.<br\/><br\/>So please have a look around and browse all we have to offer.   <\/p>",
-            "text_style": "body"
+            "text": "<p>I have a very simple, clear vision<br\/>*To offer luxury clothing that isnt on every High Street<br\/>*To provide a wide range of good quality nursery items.<br\/>And all at an affordable price.<br\/>So please have a look around and browse all we have to offer.   <\/p>",
+            "text_style": "subtitle"
           }
         },
         "164977203968ff54ce-2": {
@@ -133,11 +133,11 @@
         "164977203968ff54ce-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-23_at_8.18.26_PM.png",
+        "image": "shopify:\/\/shop_images\/Ronnie_in_grey_9a4bab9d-f707-4b4f-ad5e-3ee69408ea05.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "image-full": false,
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
