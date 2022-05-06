@@ -115,7 +115,7 @@
           "footer-mod-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "About",
               "menu": "footer-1"
             }
           },
