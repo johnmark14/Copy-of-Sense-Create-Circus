@@ -1,5 +1,7 @@
 {
   "current": {
+    "colors_background_1": "#f6f3d8",
+    "gradient_background_1": "linear-gradient(180deg, rgba(246, 243, 216, 1), rgba(241, 235, 226, 1) 100%)",
     "colors_background_2": "#EDFFA7",
     "gradient_background_2": "linear-gradient(0deg, rgba(251, 246, 241, 1), rgba(255, 224, 218, 1) 25%, rgba(251, 246, 241, 1) 100%)",
     "social_facebook_link": "https:\/\/www.facebook.com\/Babybumpluxe",
